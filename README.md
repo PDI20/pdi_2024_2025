@@ -1,6 +1,7 @@
-# **Processamento Digital de Imagem - Projeto de Classificação de Frutas e Legumes**
 
 <div align="center">
+
+# **Processamento Digital de Imagem - Projeto de Classificação de Frutas e Legumes**
 
 **Mestrado em Engenharia Eletrotécnica e de Computadores**  
 **Mestrado em Engenharia Informática**  

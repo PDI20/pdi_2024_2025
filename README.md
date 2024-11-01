@@ -12,9 +12,6 @@ No ambiente de retalho acelerado, as mercearias buscam continuamente formas de m
 
 Para enfrentar estes desafios, uma empresa de retalho pretende desenvolver um sistema de classificação de imagens automatizado que possa identificar através de imagem com elevada precisão diferentes frutas e legumes em tempo real, eliminando a necessidade de introdução manual dos dados. Desta forma, os clientes apenas terão de colocar as frutas ou legumes na balança e o sistema através da análise de imagem efetuará a classificação dos produtos e emitirá a etiqueta com o peso e o preço. Este sistema irá acelerar o processo de pesagem e minimizar a probabilidade de erros de introdução dos dados.
 
----
-
-## **Estrutura do Projeto**
 
 Este projeto consiste em três etapas principais:
 

@@ -44,8 +44,8 @@ Este projeto consiste em três etapas principais:
 
 | Classe  | Imagens                    |
 | ------- | -------------------------- |
-| Maçã    | ![Imagem 1](#) ![Imagem 2](#) ![Imagem 3](#) |
-| Laranja | ![Imagem 1](#) ![Imagem 2](#) ![Imagem 3](#) |
+| Maçã    | ![Imagem 1](#picture1.png) ![Imagem 2](#picture2.png) ![Imagem 3](#picture3.png) |
+| Laranja | ![Imagem 1](#picture4.png) ![Imagem 2](#picture5.png) ![Imagem 3](#picture6.png) |
 
 ---
 
@@ -62,13 +62,6 @@ Este projeto consiste em três etapas principais:
 
 - **Etapa 1 (10%) - 29 de novembro**: Entrega do dataset anotado.
 - **Etapa 2 (60%) - 20 de dezembro**: Apresentação em PowerPoint com resultados de um modelo.
-- **Etapa 3 (30%) - 8 de janeiro**: Apresentação comparativa dos diferentes modelos implementados.
+- **Etapa 3 (30%) - 8 de janeiro**: Apresentação de PowerPoint com resultados comparativos entre os diferentes implementados.
 
-## Submissão e Apresentação
-
-Os trabalhos podem ser realizados por grupos de 2 ou 3 alunos. O código-fonte e a apresentação em PowerPoint devem ser submetidos no InforEstudante. A apresentação final do trabalho pode ser realizada na última aula do semestre ou na data de avaliação por exame.
-
----
-
-**Nota:** Este projeto é desenvolvido como parte do curso de Mestrado em Engenharia Eletrotécnica e de Computadores e Mestrado em Engenharia Informática da UTAD (Universidade de Trás-os-Montes e Alto Douro) para o ano letivo de 2024/2025.
-
+Os trabalhos podem ser realizados por grupos de 2 ou 3 alunos. O código fonte da implementação do projeto e a apresentação PowerPoint usada para reportar os principais resultados e conclusões do trabalho devem submetidos no InforEstudante. A apresentação do trabalho e a respetiva submissão no InforEstudante pode ser feita na última aula do semestre ou na data das avaliações por exame.

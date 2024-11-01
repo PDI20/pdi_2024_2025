@@ -42,7 +42,7 @@ Este projeto consiste em três etapas principais:
 
 ## **Diagrama de Desenvolvimento do Projeto**
 
-![Diagrama](images/Picture7.png)
+![Diagrama](images/pdi_diagram.png)
 
 ## **Exemplo de Imagens que devem compor o Dataset**
 

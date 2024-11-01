@@ -1,8 +1,12 @@
 # **Processamento Digital de Imagem - Projeto de Classificação de Frutas e Legumes**
 
+<div align="center">
+
 **Mestrado em Engenharia Eletrotécnica e de Computadores**  
 **Mestrado em Engenharia Informática**  
 **UTAD 2024/2025**
+
+</div>
 
 ---
 

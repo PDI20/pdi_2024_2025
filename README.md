@@ -45,7 +45,7 @@ Este projeto consiste em três etapas principais:
 ![Diagrama](images/pdi_diagram.png)
 
 ## **Exemplo de Imagens que devem compor o Dataset**
-  
+   
 | Classe  | Imagens                    |
 | ------- | -------------------------- |
 | Maçã    | ![Picture 1](images/Picture1.png) ![Picture 2](images/Picture2.png) ![Picture 3](images/Picture3.png) |

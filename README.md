@@ -70,7 +70,6 @@ Este projeto consiste em três etapas principais:
 Os trabalhos podem ser realizados por grupos de 2 ou 3 alunos. O código fonte da implementação do projeto e a apresentação PowerPoint usada para reportar os principais resultados e conclusões do trabalho devem submetidos no InforEstudante. A apresentação do trabalho e a respetiva submissão no InforEstudante pode ser feita na última aula do semestre ou na data das avaliações por exame.
 
 | Nome       | Notebooks |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-| Exemplo 1  | [Open in Colab](https://colab.research.google.com/)                                                                                                         |
-| Exemplo 2  | [MATLAB Online](https://matlab.mathworks.com/)   
+|------------|-----------|
+|Exemplo Google Colab|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/pdi_2024_2025/examples/placeholder.ipynb)|
+|Exemplo Matlab| [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=pdi_2024_2025/placeholder.mlx)

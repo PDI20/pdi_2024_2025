@@ -71,5 +71,5 @@ Os trabalhos podem ser realizados por grupos de 2 ou 3 alunos. O código fonte d
 
 | Nome       | Notebooks |
 |------------|-----------|
-|Exemplo Google Colab|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/pdi_2024_2025/examples/placeholder.ipynb)|
+|Exemplo Google Colab|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/pdi_2024_2025/examples/exemplo_classificacao_cifar10.ipynb)|
 |Exemplo Matlab| [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=pdi_2024_2025/placeholder.mlx) 

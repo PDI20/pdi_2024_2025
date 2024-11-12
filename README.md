@@ -58,6 +58,7 @@ Este projeto consiste em três etapas principais:
 - [Google Colab](https://colab.research.google.com/)  
 - [Matlab Deep Learning Model Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub)  
 - [Roboflow Notebooks](https://github.com/roboflow/notebooks)  
+- [Keras](https://keras.io/api/applications/)
 
 ---
 

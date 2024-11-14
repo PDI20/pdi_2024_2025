@@ -48,8 +48,8 @@ Este projeto consiste em três etapas principais:
    
 | Classe  | Imagens                                  |
 | ------- | ---------------------------------------- |
-| Maçã    | <img src="images/Picture1.png" alt="Picture 1" width="100"/> &nbsp; <img src="images/Picture2.png" alt="Picture 2" width="100"/> &nbsp; <img src="images/Picture3.png" alt="Picture 3" width="100"/> |
-| Laranja | <img src="images/Picture4.png" alt="Picture 4" width="100"/> &nbsp; <img src="images/Picture5.png" alt="Picture 5" width="100"/> &nbsp; <img src="images/Picture6.png" alt="Picture 6" width="100"/> |
+| Maçã    | <img src="images/Picture1.png" alt="Picture 1" width="200"/> &nbsp; <img src="images/Picture2.png" alt="Picture 2" width="200"/> &nbsp; <img src="images/Picture3.png" alt="Picture 3" width="200"/> |
+| Laranja | <img src="images/Picture4.png" alt="Picture 4" width="200"/> &nbsp; <img src="images/Picture5.png" alt="Picture 5" width="200"/> &nbsp; <img src="images/Picture6.png" alt="Picture 6" width="200"/> |
 
 ---
 

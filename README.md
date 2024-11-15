@@ -21,7 +21,7 @@ Para enfrentar estes desafios, uma empresa de retalho pretende desenvolver um si
 Este projeto consiste em três etapas principais:
 
 ### **Etapa 1: Criação do Dataset**
-- Recolha de um conjunto de dados constituído por, pelo menos, 150 imagens de cinco classes distintas de frutas e legumes (por exemplo, laranjas, limões, maçãs, pêras ou cebolas, batatas, cenouras e cogumelos). Estas imagens devem ser obtidas por cada estudante.
+- Recolha de um conjunto de dados constituído por, pelo menos, 5 classes distintas de frutas e legumes (por exemplo, laranjas, limões, maçãs, pêras ou cebolas, batatas, cenouras e cogumelos) e 100 imagens por cada classe, 50 por cada elemento do grupo. Estas imagens devem ser obtidas por cada estudante.
 - As imagens devem ser capturadas principalmente sob um ângulo de topo, uma vez que esta é a perspetiva da câmara do sistema.
 - O conjunto de dados deve incluir imagens capturadas em diferentes condições de iluminação, de modo a garantir que o modelo consegue generalizar bem e manter uma elevada precisão em vários ambientes.
 - A plataforma Roboflow deve ser utilizada para anotar e normalizar as imagens. (colocar link)

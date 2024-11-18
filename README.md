@@ -21,10 +21,10 @@ Para enfrentar estes desafios, uma empresa de retalho pretende desenvolver um si
 Este projeto consiste em três etapas principais:
 
 ### **Etapa 1: Criação do Dataset**
-- Recolha de um conjunto de dados constituído por, pelo menos, 150 imagens de cinco classes distintas de frutas e legumes (por exemplo, laranjas, limões, maçãs, pêras ou cebolas, batatas, cenouras e cogumelos). Estas imagens devem ser obtidas por cada estudante.
+- Recolha de um conjunto de dados constituído por, pelo menos, 5 classes distintas de frutas e/ou legumes (por exemplo, laranjas, limões, maçãs, pêras ou cebolas, batatas, cenouras e cogumelos). Cada elemento do grupo deverá recolher pelo menos 50 imagens por classe. Grupos de 2 elementos deverão ter no mínimo 100 imagens por classe e grupos de 3 elementos deverão ter no mínimo 150 imagens por classe. 
 - As imagens devem ser capturadas principalmente sob um ângulo de topo, uma vez que esta é a perspetiva da câmara do sistema.
 - O conjunto de dados deve incluir imagens capturadas em diferentes condições de iluminação, de modo a garantir que o modelo consegue generalizar bem e manter uma elevada precisão em vários ambientes.
-- A plataforma Roboflow deve ser utilizada para anotar e normalizar as imagens. (colocar link)
+- A plataforma Roboflow deve ser utilizada para anotar e normalizar as imagens.
 
 
 ### **Etapa 2: Treino do Modelo**
@@ -34,7 +34,7 @@ Este projeto consiste em três etapas principais:
 
 
 ### **Etapa 3: Comparação de Desempenho de Modelos**
-- Para além do modelo ResNet-50, selecione pelo menos dois outros modelos de deep learning (por exemplo, MobileNet, VGG16, InceptionV3 ou Transformer) e treine-os com o mesmo conjunto de dados.
+- Para além do modelo ResNet-50, selecione pelo menos dois outros modelos de deep learning (por exemplo, MobileNet, VGG16 ou Transformer) e treine-os com o mesmo conjunto de dados.
 - Compare o desempenho de todos os modelos treinados com base nas principais métricas, identificando os pontos fortes e fracos de cada um.
 - Fazer o treino e a avaliação de um modelo no dataset global obtido na turma e com dez categorias frutas/legumes.
 
@@ -67,7 +67,7 @@ Este projeto consiste em três etapas principais:
 
 - **Etapa 1 (10%) - 29 de novembro**: Entrega do dataset anotado.
 - **Etapa 2 (60%) - 20 de dezembro**: Apresentação em PowerPoint com resultados de um modelo.
-- **Etapa 3 (30%) - 8 de janeiro**: Apresentação de PowerPoint com resultados comparativos entre os diferentes implementados.
+- **Etapa 3 (30%) - 8 de janeiro**: Apresentação de PowerPoint com resultados comparativos dos diferentes modelos implementados.
 
 Os trabalhos podem ser realizados por grupos de 2 ou 3 alunos. O código fonte da implementação do projeto e a apresentação PowerPoint usada para reportar os principais resultados e conclusões do trabalho devem submetidos no InforEstudante. A apresentação do trabalho e a respetiva submissão no InforEstudante pode ser feita na última aula do semestre ou na data das avaliações por exame.
 
